@@ -1,0 +1,29 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.movie_head{
+padding: 6px 22px;
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    display: inline-block;
+    font-size: 25;
+}
+#down{
+    float: right;
+    
+}
